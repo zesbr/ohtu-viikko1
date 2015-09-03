@@ -1,1 +1,5 @@
-HUOM! Tämä on tärkeä teksti, tokassa branchissa
+<<<<<<< HEAD
+HUOM! Tämä on tärkeä teksti, tokassa branchissa...
+=======
+Tämä on tärkeä teksti, tokassa branchissa.
+>>>>>>> toka
